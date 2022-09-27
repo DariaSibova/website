@@ -141,6 +141,7 @@ ul li a:hover{
   font-size: 18px;
   border-radius: 10px;
   cursor: pointer;
+  transition: .4s ease;
 }
 
 
@@ -152,5 +153,9 @@ transition: .3s ease;
 
 .cn:hover{
   background-color: #fff;
+}
 
+.content span{
+  color: #ff7200;
+  font-size: 60px;
 }
