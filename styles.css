@@ -247,3 +247,22 @@ transition: .3s ease;
   padding-bottom: 10px;
   text-align: center;
 }
+
+.icons a{
+  text-decoration: none;
+  color: #fff;
+}
+
+.icons ion-icon{
+  color: #fff;
+  font-size: 30px;
+  padding-left: 14px;
+  padding-top: 5px;
+transition: 0.3s ease;
+
+}
+
+.icons ion-icon:hover{
+  color: #ff7200;
+
+}
