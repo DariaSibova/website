@@ -206,3 +206,30 @@ transition: .3s ease;
   color: #fff;
   font-family: Arial;
 }
+
+.btnn{
+  width: 240px;
+  height: 40px;
+  background: #ff7200;
+  border: none;
+  margin-top: 30px;
+  font-size: 18px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #fff;
+  transition: 0.4s ease;
+}
+
+.btnn:hover{
+  background: #fff;
+  color: #ff7200;
+}
+
+.btnn a{
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+.form .link{
+  
+}
